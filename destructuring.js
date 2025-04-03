@@ -1,7 +1,4 @@
 console.clear();
-console.log("hola")
-
-
 /*
 We use destructuring to extract values from arrays or objects properties
 into separete variables in a more concise way
