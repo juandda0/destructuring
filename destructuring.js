@@ -24,7 +24,7 @@ const array2 = [2, 7, 99]
 first we use the same array syntax at the left side of assignment to deffind the variables
 and the right side should be the array
 */
-const [nposition1, nposition2, nposition3] = array;
+const [nposition1, nposition2, nposition3] = array2;
 
 /*
 what we did was assing each variable to each position in the array sequentially
